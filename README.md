@@ -1,0 +1,2 @@
+# artur-theme
+WordPress Theme
